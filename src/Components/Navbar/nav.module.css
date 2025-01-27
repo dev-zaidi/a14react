@@ -1,0 +1,18 @@
+.navbar{
+    background: #000;
+    color: white;
+    padding: 10px;
+    margin: 5px;
+
+}
+.navList{
+    display: flex;
+    justify-content: space-around;
+    text-transform: capitalize;
+    margin: 5px;
+}
+.navListItem{
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+}
